@@ -3,7 +3,6 @@ public class Main {
             employee Employee= new employee();
             Employee.getInfo();
 
-            //fgfgfgfg
         }
     }
 
